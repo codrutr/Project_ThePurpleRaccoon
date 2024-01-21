@@ -1,0 +1,13 @@
+.deliverables-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .deliverables-list li {
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 15px;
+  }
+  
